@@ -1,0 +1,28 @@
+body {
+  background-color: rgba(0, 0, 0, 0);
+  color: black;
+}
+
+#char-select-container {
+  display: none;
+}
+
+#char-creation-container {
+  display: none;
+}
+
+.container {
+  background-color: rgba(117, 98, 98, 0.5);
+  border-radius: 10px;
+  margin-top: 20vh;
+  padding: 5rem 2rem;
+}
+
+.card-text {
+  margin: 0;
+}
+
+h1 {
+  color: white;
+  padding-bottom: 20px;
+}
